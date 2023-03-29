@@ -1,14 +1,14 @@
 <site-list version="1">
 <site url="http://prosikprod01/prosik">
 <compat-mode>default</compat-mode>
-<open-in>IE11</open-in>
+<open-in>IE mode</open-in>
 </site>
 <site url="http://adkbrond201">
 <compat-mode>default</compat-mode>
-<open-in>IE11</open-in>
+<open-in>IE mode</open-in>
 </site>
 <site url="http://ingriam/identitymanagement">
 <compat-mode>default</compat-mode>
-<open-in>IE11</open-in>
+<open-in>IE mode</open-in>
 </site>
 </site-list>
