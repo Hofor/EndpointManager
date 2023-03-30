@@ -1,14 +1,13 @@
-<site-list version="1">
-<site url="http://prosikprod01/prosik">
-<compat-mode>default</compat-mode>
-<open-in>IE11</open-in>
-</site>
-<site url="http://adkbrond201">
-<compat-mode>default</compat-mode>
-<open-in>IE11</open-in>
-</site>
-<site url="http://ingriam/identitymanagement">
-<compat-mode>default</compat-mode>
-<open-in>IE11</open-in>
-</site>
+<site-list version="205">
+	<!-- File creation header -->
+	<created-by>
+		<tool>EnterpriseSitelistManager</tool>
+		<version>10240</version>
+		<date-created>20150728.135021</date-created>
+	</created-by>
+  	<!-- Begin Site List --> 
+	<site url="http://prosikprod01/prosik">
+		<compat-mode>IE8Enterprise</compat-mode>
+		<open-in>IE Mode</open-in>
+	</site>
 </site-list>
