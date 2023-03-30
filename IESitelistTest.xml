@@ -1,0 +1,6 @@
+site-list version="2">
+  <site url="http//prosikprod01/prosik">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+</site-list>
