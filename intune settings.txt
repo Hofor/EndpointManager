@@ -1,0 +1,10 @@
+MEM-WIN10-Enpoint Protection Account protection-Device-Test
+-Credentials Guard
+MEM-WIN10-Enpoint Protection Application Guard Policies-Device-Test 
+ Not Configured
+
+System > Remote Assistance -Bruges det? - test
+ENERGI\GG_SCCM2012_SWC-Remote
+ENERGI\GG_SCCM2012_SWC-Sup
+
+existing
