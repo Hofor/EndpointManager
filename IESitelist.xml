@@ -11,4 +11,8 @@
 <compat-mode>default</compat-mode>
 <open-in>IE11</open-in>
 </site>
+<site url="http://kesap212.energi.ke.dk">
+<compat-mode>default</compat-mode>
+<open-in>IE11</open-in>
+</site>
 </site-list>
